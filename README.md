@@ -1,4 +1,5 @@
 ## Hi there 👋
+I am a long time web developer, lifelong learner, and a part time philosopher
 
 - 💬 Ask me about JavaScript, TypeScript, Web Applications
 - 🌱 I’m currently learning Go, SQL, Docker
