@@ -1,7 +1,7 @@
 ## Hi there 👋
 I am a long time web developer, lifelong learner, and a part time philosopher
 
-- 💬 I am strongest in JavaScript, TypeScript, React, and Web Applications more generally
+- 💬 I am strongest in JavaScript, React, Ruby + Rails, for Web Applications
 - 🌱 I’m currently learning php
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/robert-i-23019730/)
 
