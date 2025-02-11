@@ -2,7 +2,7 @@
 I am a long time web developer, lifelong learner, and a part time philosopher
 
 - 💬 I am strongest in JavaScript, TypeScript, React, and Web Applications more generally
-- 🌱 I’m currently learning Python, Go, Docker
+- 🌱 I’m currently learning php
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/robert-i-23019730/)
 
 A project I'm currently working on: [Phamily Photos](https://github.com/rowinf/phamily-photos) it is a photo album for families, written in Go.
