@@ -1,8 +1,8 @@
 ## Hi there 👋
 I am a long time web developer, lifelong learner, and a part time philosopher
 
-- 💬 I am strongest in JavaScript, React, Ruby + Rails, for Web Applications
-- 🌱 I’m currently learning php
+- 💬 I am strongest in TypeScript, JavaScript, and React, for Web Applications
+- 🌱 I’m currently learning python, go, php
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/robert-i-23019730/)
 
 Check out my [Space Travel agency website](https://rowinf.github.io/space-travel/) :) 
